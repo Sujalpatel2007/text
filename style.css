@@ -1,0 +1,20 @@
+body {
+  color: FFFFFF;
+  font-size: 25pt;
+ background: url('https://cdn.pixabay.com/photo/2020/02/14/15/35/dog-4848668_960_720.jpg') no-repeat center;
+}
+h1{
+ padding: 50px;
+text-align:center;
+}
+p{
+ text-align: center;
+}
+nav{
+display:flex;
+padding-left: 40px;
+}
+li{
+ padding: 25px;
+ 
+}
